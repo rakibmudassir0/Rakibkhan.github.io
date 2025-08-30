@@ -1,35 +1,4 @@
-# Rakibkhan.github.io
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-  <meta charset="UTF-8">
-  <title>আমার ব্যক্তিগত ওয়েবসাইট</title>
-  <style>
-    :root {
-      --bg: #fdfdfd;
-      --text: #222;
-      --card: #f1f1f1;
-      --accent: #007acc;
-      --active: #005f99;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #121212;
-        --text: #f5f5f5;
-        --card: #1e1e1e;
-        --accent: #3399ff;
-        --active: #1a75d1;
-      }
-    }
-    html {
-      scroll-behavior: smooth;
-    }
-    body {
-      margin: 0;
-      font-family: "Noto Sans Bengali", sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
+x      line-height: 1.6;
     }
     header {
       text-align: center;
